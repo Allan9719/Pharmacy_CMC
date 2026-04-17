@@ -1,13 +1,17 @@
-# CMC in Drug Development: The Definitive Guide
-## Chemistry, Manufacturing, and Controls — From Discovery to Post-Market Lifecycle
+# 中国医药 CMC 权威指南
+## 化学、生产与控制（Chemistry, Manufacturing, and Controls）— 药品研发到上市后全生命周期
 
 ---
 
-> **Purpose:** This document is a single, self-contained expert-level reference covering every dimension of CMC in pharmaceutical drug development. It maps CMC activities to clinical trial phases, details regulatory expectations across FDA and EMA, and provides the practical depth needed for strategic client engagements.
+> **指南定位**：面向中国医药行业从业者的一站式 CMC 知识体系。整合 ICH/FDA/EMA 全球法规框架与中国 NMPA/CDE 本土实践，覆盖化学药、生物药、细胞/基因治疗、mRNA、ADC 等全品类，为研发、注册、质控、生产管理人员提供专业级参考。
+>
+> **合规依据**：NMPA/CDE 最新法规 + 中国药典 2025 版 + ICH Q1–Q14
 
 ---
 
-## Table of Contents
+## 目录 (Table of Contents)
+
+### 第一部分：全球 CMC 知识体系
 
 1. [What is CMC and Why It Matters](#1-what-is-cmc-and-why-it-matters)
 2. [The Four Pillars of CMC](#2-the-four-pillars-of-cmc)
@@ -43,6 +47,16 @@
 32. [Generic Drug (ANDA) CMC Requirements](#32-generic-drug-anda-cmc-requirements)
 33. [Master Reference Table — ICH Guidelines, FDA Guidances, and Regulations](#33-master-reference-table)
 34. [Glossary of Key CMC Terms](#34-glossary-of-key-cmc-terms)
+
+### 第二部分：中国 CMC 专题
+
+35. [中国 CMC 监管框架](#35-中国-cmc-监管框架-china-cmc-regulatory-framework)
+36. [中美欧 CMC 申报要求对比](#36-中美欧-cmc-申报要求对比-china-us-eu-cmc-comparison)
+37. [中英双语 CMC 术语表](#37-中英双语-cmc-术语表-bilingual-cmc-glossary)
+38. [中国药品研发阶段 CMC 节点图](#38-中国药品研发阶段-cmc-节点图-china-drug-development-cmc-milestones)
+39. [中国 DMF 与关联审评](#39-中国-dmf-与关联审评-china-dmf-and-associated-review)
+40. [MAH 制度下的 CMC 管控](#40-mah-制度下的-cmc-管控-cmc-management-under-mah-system)
+41. [中国 CMC 高频发补与合规案例](#41-中国-cmc-高频发补与合规案例-common-cmc-deficiency-cases-in-china)
 
 ---
 
@@ -2017,28 +2031,6 @@ When a generic applicant files a Paragraph IV certification challenging an Orang
 | **RLD**      | Reference Listed Drug                                                                                  |
 | **siRNA**    | Small Interfering RNA                                                                                  |
 | **WFI**      | Water for Injection                                                                                    |
-
----
-
-## Document Information
-
-- **Compiled:** March 2026
-- **Sources:** ICH Guidelines (Q1-Q14, M4Q, M7), FDA 21 CFR Regulations, FDA Guidance Documents, EMA Guidelines, USP/Ph. Eur. Standards, Pharmaceutical Industry Best Practices
-- **Scope:** Small molecules, biologics, cell therapies, gene therapies, mRNA therapeutics
-- **Intended audience:** CMC professionals, regulatory affairs strategists, pharmaceutical development teams, consulting engagements
-
----
-
-*This document provides a comprehensive reference for CMC in drug development. For the most current versions of regulatory guidance documents, consult [FDA.gov](https://www.fda.gov), [ICH.org](https://www.ich.org), and [EMA.europa.eu](https://www.ema.europa.eu).*
-
----
-
-# 中国 CMC 专题 (China CMC Addendum)
-
-> **本土化版本**：V1.0（2025.04.17）  
-> **合规依据**：NMPA/CDE 最新法规 + 中国药典 2025 版  
-> **合规保障制度**：详见 [COMPLIANCE_FRAMEWORK.md](COMPLIANCE_FRAMEWORK.md)  
-> **权威数据源**：详见 [resources/zh-CN/SOURCES.md](resources/zh-CN/SOURCES.md)
 
 ---
 

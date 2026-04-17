@@ -1,144 +1,142 @@
-# CMC in Drug Development — Comprehensive Research Repository
+# 中国医药 CMC 权威指南
 
-> **Chemistry, Manufacturing, and Controls (CMC)** — The complete expert-level reference for pharmaceutical drug development, from discovery through post-market lifecycle.
-
----
-
-## About This Repository
-
-This repository contains a single, comprehensive reference document covering **every dimension of CMC** in pharmaceutical and biopharmaceutical drug development. It is designed to serve as:
-
-- A **strategic briefing resource** for client engagements on CMC topics
-- A **training reference** for regulatory affairs, quality, and CMC professionals
-- A **decision-support tool** mapping clinical trial data to CMC activity triggers
-- A **regulatory reference** covering FDA, EMA, and ICH requirements
-
-**Document:** [`CMC_COMPREHENSIVE_GUIDE.md`](CMC_COMPREHENSIVE_GUIDE.md) — 2,000+ lines | 34 sections | 80+ glossary terms
+> **化学、生产与控制（Chemistry, Manufacturing, and Controls）** — 面向中国医药行业从业者的一站式 CMC 知识体系，涵盖药品研发、注册申报、生产合规及上市后生命周期管理全流程。
 
 ---
 
-## Quick Navigation
+## 关于本指南
 
-### Foundations
+本指南面向中国医药行业从业者（研发、注册、质控、生产、CDMO 管理人员），系统整合了全球 CMC 知识体系与中国本土法规实践：
 
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 1 | [What is CMC and Why It Matters](CMC_COMPREHENSIVE_GUIDE.md#1-what-is-cmc-and-why-it-matters) | CMC definition, strategic importance, cost impact |
-| 2 | [The Four Pillars of CMC](CMC_COMPREHENSIVE_GUIDE.md#2-the-four-pillars-of-cmc) | Drug Substance, Drug Product, Analytical Methods, Manufacturing Controls |
-| 3 | [Regulatory Framework — ICH Guidelines](CMC_COMPREHENSIVE_GUIDE.md#3-regulatory-framework--ich-guidelines) | ICH Q1-Q14, M7 — the global regulatory backbone |
-| 4 | [The Common Technical Document (CTD) Module 3](CMC_COMPREHENSIVE_GUIDE.md#4-the-common-technical-document-ctd-module-3) | Module 3 structure tree for NDA/BLA/MAA submissions |
+- 📋 **全球法规对标**：ICH Q1–Q14 全系列 + FDA/EMA 核心要求
+- 🇨🇳 **中国本土适配**：NMPA/CDE 指导原则 + 中国药典 2025 版 + MAH/关联审评制度
+- 🔬 **全品类覆盖**：化学药、生物药、生物类似药、细胞/基因治疗、mRNA、ADC、寡核苷酸
+- 📈 **实操导向**：中国药品研发 CMC 节点图、高频发补案例、MAH 管控实务
 
-### Deep Dives — Drug Substance, Drug Product, Analytics
-
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 5 | [Drug Substance (API) — Deep Dive](CMC_COMPREHENSIVE_GUIDE.md#5-drug-substance-api--deep-dive) | Synthetic routes, starting materials, CPPs/CQAs, impurity profiling, polymorphism, reference standards |
-| 6 | [Drug Product — Deep Dive](CMC_COMPREHENSIVE_GUIDE.md#6-drug-product--deep-dive) | Formulation by BCS class, manufacturing processes (oral solids, injectables, biologics), scale-up, QbD, PAT |
-| 7 | [Analytical Methods — Deep Dive](CMC_COMPREHENSIVE_GUIDE.md#7-analytical-methods--deep-dive) | Method types, ICH Q2(R2) validation, compendial vs. non-compendial, specs setting, ICH Q14 lifecycle |
-| 8 | [Container Closure Systems](CMC_COMPREHENSIVE_GUIDE.md#8-container-closure-systems) | Primary packaging, extractables & leachables, glass vs. COP, container closure integrity |
-| 9 | [Stability Studies](CMC_COMPREHENSIVE_GUIDE.md#9-stability-studies) | ICH Q1A-Q1E protocols, shelf life determination, stability commitments |
-| 10 | [Process Validation](CMC_COMPREHENSIVE_GUIDE.md#10-process-validation) | FDA 3-stage lifecycle (design, qualification, CPV), equipment qualification, cleaning validation, sterile product validation |
-
-### Clinical-to-CMC Trigger Mapping (Core Client Topic)
-
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 11 | [Clinical Trial Phases as CMC Triggers](CMC_COMPREHENSIVE_GUIDE.md#11-clinical-trial-phases-as-cmc-triggers) | **The key section** — phase-by-phase trigger map from Pre-IND through post-market |
-
-Key subsections:
-- [11.1 Master Trigger Map](CMC_COMPREHENSIVE_GUIDE.md#111-master-trigger-map) — Visual timeline of all CMC activities
-- [11.2 Pre-Clinical / Pre-IND](CMC_COMPREHENSIVE_GUIDE.md#112-pre-clinical--pre-ind-cmc-activities) — What must be done before trials begin
-- [11.3 Phase I Triggers](CMC_COMPREHENSIVE_GUIDE.md#113-phase-i--cmc-triggers) — Safety, PK, dose-finding data triggering CMC
-- [11.4 Phase II Triggers](CMC_COMPREHENSIVE_GUIDE.md#114-phase-ii--cmc-triggers-the-pivotal-investment-decision) — Proof-of-concept as the pivotal CMC investment trigger
-- [11.5 Phase III Triggers](CMC_COMPREHENSIVE_GUIDE.md#115-phase-iii--cmc-triggers-commercial-readiness) — Process lock, validation, registration batches
-- [11.6 NDA/BLA Submission](CMC_COMPREHENSIVE_GUIDE.md#116-ndabla-submission--cmc-requirements) — Complete CMC package requirements
-- [11.7 Post-Approval Triggers](CMC_COMPREHENSIVE_GUIDE.md#117-post-approval--cmc-activities-triggered-by-market-data) — Market data driving lifecycle CMC
-
-### Strategy and Regulatory
-
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 12 | [CMC Strategy and Planning](CMC_COMPREHENSIVE_GUIDE.md#12-cmc-strategy-and-planning) | Phase-aligned plans, investment timing, cost benchmarks, go/no-go gates, platform approaches |
-| 13 | [Regulatory Interactions for CMC](CMC_COMPREHENSIVE_GUIDE.md#13-regulatory-interactions-for-cmc) | FDA meeting types, Pre-IND/EOP2/Pre-NDA topics, accelerated pathway implications |
-| 14 | [Post-Approval CMC Changes and Lifecycle](CMC_COMPREHENSIVE_GUIDE.md#14-post-approval-cmc-changes-and-lifecycle-management) | SUPAC framework, PAS/CBE-30/CBE-0/Annual Reports, ICH Q12 Established Conditions, comparability protocols |
-
-### Biologics and Advanced Therapies
-
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 15 | [Biologics-Specific CMC](CMC_COMPREHENSIVE_GUIDE.md#15-biologics-specific-cmc) | "Process IS the product," cell banks, viral safety, characterization, comparability |
-| 16 | [Small Molecule vs. Biologics CMC](CMC_COMPREHENSIVE_GUIDE.md#16-small-molecule-vs-biologics-cmc--key-differences) | Side-by-side comparison table |
-| 17 | [Advanced Therapies — Cell, Gene, mRNA](CMC_COMPREHENSIVE_GUIDE.md#17-advanced-therapies--cell-gene-and-mrna-cmc) | CAR-T, AAV vectors, LNP-mRNA — unique CMC challenges and real-world examples |
-
-### Trends, Pitfalls, and Global Comparison
-
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 18 | [Emerging Trends in CMC](CMC_COMPREHENSIVE_GUIDE.md#18-emerging-trends-in-cmc) | Continuous manufacturing, RTRT, digital twins, AI/ML, 3D printing |
-| 19 | [Common CMC Pitfalls](CMC_COMPREHENSIVE_GUIDE.md#19-common-cmc-pitfalls-and-how-to-avoid-them) | Top CRL causes, clinical hold triggers, 10 best practices, cautionary examples |
-| 20 | [FDA vs. EMA — CMC Comparison](CMC_COMPREHENSIVE_GUIDE.md#20-fda-vs-ema--cmc-comparison) | Side-by-side regulatory comparison, EMA Variation types |
-
-### Operational CMC (QC-Pass Additions)
-
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 21 | [Technology Transfer](CMC_COMPREHENSIVE_GUIDE.md#21-technology-transfer) | Transfer packages, equipment mapping, method transfer, common failures, regulatory filings |
-| 22 | [CMO/CDMO Management and Quality Agreements](CMC_COMPREHENSIVE_GUIDE.md#22-cmocdmo-management-and-quality-agreements) | CDMO selection, quality agreement content, sponsor oversight, multi-CDMO strategy |
-| 23 | [Supply Chain and Vendor Qualification](CMC_COMPREHENSIVE_GUIDE.md#23-supply-chain-and-vendor-qualification) | Vendor tiering, supplier audits, incoming testing, supply chain risk, water systems |
-| 24 | [Biosimilar CMC Pathway](CMC_COMPREHENSIVE_GUIDE.md#24-biosimilar-cmc-pathway) | Stepwise development, analytical similarity, reference product characterization, interchangeability |
-| 25 | [Combination Products and FDCs](CMC_COMPREHENSIVE_GUIDE.md#25-combination-products-and-fixed-dose-combinations) | Drug-device combos, inhalers, patches, fixed-dose combination challenges |
-| 26 | [Nitrosamine Impurity Assessment](CMC_COMPREHENSIVE_GUIDE.md#26-nitrosamine-impurity-assessment) | Valsartan crisis, risk assessment methodology, acceptable intake limits, analytical methods |
-| 27 | [Emerging Modalities — ADCs, Bispecifics, Oligonucleotides](CMC_COMPREHENSIVE_GUIDE.md#27-emerging-modalities--adcs-bispecifics-oligonucleotides) | ADC conjugation/DAR, bispecific chain pairing, siRNA/ASO synthesis, peptides, radiopharmaceuticals |
-| 28 | [Drug Master Files (DMFs)](CMC_COMPREHENSIVE_GUIDE.md#28-drug-master-files-dmfs) | DMF types, how they work, DMF vs. ASMF vs. CEP |
-| 29 | [Data Integrity and Electronic Records](CMC_COMPREHENSIVE_GUIDE.md#29-data-integrity-and-electronic-records) | ALCOA+ principles, 21 CFR Part 11, common findings |
-| 30 | [Facility Design, Environmental Controls, Utilities](CMC_COMPREHENSIVE_GUIDE.md#30-facility-design-environmental-controls-and-utilities) | Cleanroom grades, HVAC, EU GMP Annex 1 (2022), water systems, compressed gases |
-| 31 | [CMC Due Diligence for Licensing and M&A](CMC_COMPREHENSIVE_GUIDE.md#31-cmc-due-diligence-for-licensing-and-ma) | Assessment framework, risk scoring, deal terms |
-| 32 | [Generic Drug (ANDA) CMC Requirements](CMC_COMPREHENSIVE_GUIDE.md#32-generic-drug-anda-cmc-requirements) | Q1/Q2 sameness, dissolution, BCS biowaivers, Paragraph IV |
-
-### Reference
-
-| # | Section | What You'll Learn |
-|---|---------|-------------------|
-| 33 | [Master Reference Table](CMC_COMPREHENSIVE_GUIDE.md#33-master-reference-table) | All ICH Quality guidelines, FDA regulations, key FDA guidance documents |
-| 34 | [Glossary of Key CMC Terms](CMC_COMPREHENSIVE_GUIDE.md#34-glossary-of-key-cmc-terms) | 80+ terms defined (API, CQA, CPP, PPQ, SUPAC, QbD, etc.) |
+**核心文档**：[`CMC_COMPREHENSIVE_GUIDE.md`](CMC_COMPREHENSIVE_GUIDE.md) — 2,300+ 行 | 41 章节 | 80+ 中英双语术语
 
 ---
 
-## Key Regulatory Sources Referenced
+## 目录导航
 
-| Source | Coverage |
-|--------|----------|
-| **ICH Guidelines** | Q1A-Q1E, Q2(R2), Q3A-Q3E, Q5A-Q5E, Q6A/Q6B, Q7, Q8(R2), Q9(R1), Q10, Q11, Q12, Q13, Q14, M4Q, M7(R2) |
-| **FDA Regulations** | 21 CFR 210/211, 312, 314, 601, 600-680, Part 4, Part 11, Part 212 |
-| **FDA Guidances** | Process Validation (2011), CGMP for Phase 1 (2008), PAT Framework (2004), SUPAC series, Nitrosamines (2021/2023), Biosimilars (2019), Gene Therapy CMC (2020) |
-| **EMA/EU** | GMP Annex 1 (2022), Variations Regulation, ATMP Regulation, Biosimilar Guidelines |
-| **USP** | <71>, <85>, <61>/<62>, <661>, <788>, <905>, <1207>, <1224>, <1225>/<1226> |
+### 基础理论
+
+| #   | 章节                                                                                           | 核心内容                         |
+| --- | ---------------------------------------------------------------------------------------------- | -------------------------------- |
+| 1   | [CMC 概述与战略意义](CMC_COMPREHENSIVE_GUIDE.md#1-what-is-cmc-and-why-it-matters)              | 定义、战略价值、成本占比         |
+| 2   | [CMC 四大支柱](CMC_COMPREHENSIVE_GUIDE.md#2-the-four-pillars-of-cmc)                           | 原料药、制剂、分析方法、生产控制 |
+| 3   | [全球法规框架（ICH 体系）](CMC_COMPREHENSIVE_GUIDE.md#3-regulatory-framework--ich-guidelines)  | ICH Q1–Q14、M7 全景梳理          |
+| 4   | [CTD 模块 3 申报结构](CMC_COMPREHENSIVE_GUIDE.md#4-the-common-technical-document-ctd-module-3) | NDA/BLA/MAA 模块 3 文档树        |
+
+### 深度攻坚 — 原料药、制剂、分析
+
+| #   | 章节                                                                                | 核心内容                                          |
+| --- | ----------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 5   | [原料药（API）深度解析](CMC_COMPREHENSIVE_GUIDE.md#5-drug-substance-api--deep-dive) | 合成路线、起始物料、CPP/CQA、杂质、多晶型         |
+| 6   | [制剂深度解析](CMC_COMPREHENSIVE_GUIDE.md#6-drug-product--deep-dive)                | BCS 分类配方、口服固体/注射剂工艺、放大、QbD、PAT |
+| 7   | [分析方法深度解析](CMC_COMPREHENSIVE_GUIDE.md#7-analytical-methods--deep-dive)      | 方法类型、ICH Q2(R2) 验证、ICH Q14 生命周期       |
+| 8   | [包材密封系统](CMC_COMPREHENSIVE_GUIDE.md#8-container-closure-systems)              | 一次包装、E&L、CCI                                |
+| 9   | [稳定性研究](CMC_COMPREHENSIVE_GUIDE.md#9-stability-studies)                        | ICH Q1A–Q1E、有效期确定                           |
+| 10  | [工艺验证](CMC_COMPREHENSIVE_GUIDE.md#10-process-validation)                        | FDA 三阶段生命周期验证、无菌产品验证              |
+
+### 临床阶段 CMC 触发与策略
+
+| #   | 章节                                                                                                         | 核心内容                                      |
+| --- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| 11  | [临床试验各阶段 CMC 触发点](CMC_COMPREHENSIVE_GUIDE.md#11-clinical-trial-phases-as-cmc-triggers)             | **核心章节** — Pre-IND 到上市后全阶段触发地图 |
+| 12  | [CMC 策略与规划](CMC_COMPREHENSIVE_GUIDE.md#12-cmc-strategy-and-planning)                                    | 阶段对齐计划、投资节奏、平台策略              |
+| 13  | [CMC 监管互动](CMC_COMPREHENSIVE_GUIDE.md#13-regulatory-interactions-for-cmc)                                | 会议类型、加速通道影响                        |
+| 14  | [上市后变更与生命周期管理](CMC_COMPREHENSIVE_GUIDE.md#14-post-approval-cmc-changes-and-lifecycle-management) | SUPAC、ICH Q12、可比性方案                    |
+
+### 生物药与前沿疗法
+
+| #   | 章节                                                                                                        | 核心内容                               |
+| --- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 15  | [生物药专属 CMC](CMC_COMPREHENSIVE_GUIDE.md#15-biologics-specific-cmc)                                      | "工艺即产品"、细胞库、病毒安全、可比性 |
+| 16  | [小分子 vs 生物药 CMC 差异](CMC_COMPREHENSIVE_GUIDE.md#16-small-molecule-vs-biologics-cmc--key-differences) | 对比表                                 |
+| 17  | [先进疗法 — 细胞、基因、mRNA](CMC_COMPREHENSIVE_GUIDE.md#17-advanced-therapies--cell-gene-and-mrna-cmc)     | CAR-T、AAV、LNP-mRNA                   |
+
+### 运营实务与全球对比
+
+| #     | 章节                                                                                                                                                                                                                                                                                                                                                                                                             | 核心内容                                |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 18–20 | [新兴趋势](CMC_COMPREHENSIVE_GUIDE.md#18-emerging-trends-in-cmc) · [常见陷阱](CMC_COMPREHENSIVE_GUIDE.md#19-common-cmc-pitfalls-and-how-to-avoid-them) · [FDA vs EMA 对比](CMC_COMPREHENSIVE_GUIDE.md#20-fda-vs-ema--cmc-comparison)                                                                                                                                                                             | 连续制造、AI/ML、CRL 原因、全球法规差异 |
+| 21–23 | [技术转移](CMC_COMPREHENSIVE_GUIDE.md#21-technology-transfer) · [CDMO 管理](CMC_COMPREHENSIVE_GUIDE.md#22-cmocdmo-management-and-quality-agreements) · [供应链](CMC_COMPREHENSIVE_GUIDE.md#23-supply-chain-and-vendor-qualification)                                                                                                                                                                             | 转移包、质量协议、供应商分级            |
+| 24–27 | [生物类似药](CMC_COMPREHENSIVE_GUIDE.md#24-biosimilar-cmc-pathway) · [组合产品](CMC_COMPREHENSIVE_GUIDE.md#25-combination-products-and-fixed-dose-combinations) · [亚硝胺](CMC_COMPREHENSIVE_GUIDE.md#26-nitrosamine-impurity-assessment) · [新兴靶向](CMC_COMPREHENSIVE_GUIDE.md#27-emerging-modalities--adcs-bispecifics-oligonucleotides)                                                                     | ADC、双抗、siRNA、多肽、放射性药物      |
+| 28–32 | [DMF](CMC_COMPREHENSIVE_GUIDE.md#28-drug-master-files-dmfs) · [数据完整性](CMC_COMPREHENSIVE_GUIDE.md#29-data-integrity-and-electronic-records) · [设施设计](CMC_COMPREHENSIVE_GUIDE.md#30-facility-design-environmental-controls-and-utilities) · [CMC 尽调](CMC_COMPREHENSIVE_GUIDE.md#31-cmc-due-diligence-for-licensing-and-ma) · [仿制药](CMC_COMPREHENSIVE_GUIDE.md#32-generic-drug-anda-cmc-requirements) | ALCOA+、洁净室、尽职调查、ANDA          |
+
+### 参考与术语
+
+| #   | 章节                                                                              | 核心内容                             |
+| --- | --------------------------------------------------------------------------------- | ------------------------------------ |
+| 33  | [法规主参考表](CMC_COMPREHENSIVE_GUIDE.md#33-master-reference-table)              | ICH 全系列 + FDA 核心法规 + 指导文件 |
+| 34  | [中英双语术语表（全球）](CMC_COMPREHENSIVE_GUIDE.md#34-glossary-of-key-cmc-terms) | 80+ 术语定义                         |
+
+### 🇨🇳 中国 CMC 专题
+
+| #   | 章节                                                                                                                       | 核心内容                                                    |
+| --- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 35  | [中国 CMC 监管框架](CMC_COMPREHENSIVE_GUIDE.md#35-中国-cmc-监管框架-china-cmc-regulatory-framework)                        | NMPA/CDE/药典委/中检院 + 核心法规清单 + 与 FDA/EMA 六大差异 |
+| 36  | [中美欧 CMC 申报对比](CMC_COMPREHENSIVE_GUIDE.md#36-中美欧-cmc-申报要求对比-china-us-eu-cmc-comparison)                    | 四维对比表：申报/变更/生物类似药/连续生产                   |
+| 37  | [中英双语术语表](CMC_COMPREHENSIVE_GUIDE.md#37-中英双语-cmc-术语表-bilingual-cmc-glossary)                                 | 33 条 CDE 官方标准术语                                      |
+| 38  | [中国研发阶段 CMC 节点图](CMC_COMPREHENSIVE_GUIDE.md#38-中国药品研发阶段-cmc-节点图-china-drug-development-cmc-milestones) | Pre-IND → 上市后 6 阶段 + IND 默示许可 + 发补流程           |
+| 39  | [DMF 与关联审评](CMC_COMPREHENSIVE_GUIDE.md#39-中国-dmf-与关联审评-china-dmf-and-associated-review)                        | 分类/流程/补正要点                                          |
+| 40  | [MAH 制度下 CMC 管控](CMC_COMPREHENSIVE_GUIDE.md#40-mah-制度下的-cmc-管控-cmc-management-under-mah-system)                 | 质量协议/跨区域合规/中欧美差异                              |
+| 41  | [高频发补与合规案例](CMC_COMPREHENSIVE_GUIDE.md#41-中国-cmc-高频发补与合规案例-common-cmc-deficiency-cases-in-china)       | 7 大发补类型 + 亚硝胺管控 + 溶出曲线案例 + 最佳实践         |
 
 ---
 
-## How to Use This Document
+## 核心参考法规来源
 
-**For a client meeting on clinical-to-CMC triggers:**
-Start with [Section 11](CMC_COMPREHENSIVE_GUIDE.md#11-clinical-trial-phases-as-cmc-triggers), then reference [Section 12](CMC_COMPREHENSIVE_GUIDE.md#12-cmc-strategy-and-planning) for strategic planning.
-
-**For a regulatory strategy discussion:**
-Start with [Section 13](CMC_COMPREHENSIVE_GUIDE.md#13-regulatory-interactions-for-cmc) and [Section 14](CMC_COMPREHENSIVE_GUIDE.md#14-post-approval-cmc-changes-and-lifecycle-management), cross-reference [Section 20](CMC_COMPREHENSIVE_GUIDE.md#20-fda-vs-ema--cmc-comparison) for global differences.
-
-**For a biologics CMC deep dive:**
-Start with [Section 15](CMC_COMPREHENSIVE_GUIDE.md#15-biologics-specific-cmc), then [Section 17](CMC_COMPREHENSIVE_GUIDE.md#17-advanced-therapies--cell-gene-and-mrna-cmc) for advanced therapies.
-
-**For CMC due diligence or CDMO evaluation:**
-Start with [Section 31](CMC_COMPREHENSIVE_GUIDE.md#31-cmc-due-diligence-for-licensing-and-ma) and [Section 22](CMC_COMPREHENSIVE_GUIDE.md#22-cmocdmo-management-and-quality-agreements).
-
-**For emerging modalities (ADCs, gene therapy, mRNA):**
-Start with [Section 27](CMC_COMPREHENSIVE_GUIDE.md#27-emerging-modalities--adcs-bispecifics-oligonucleotides) and [Section 17](CMC_COMPREHENSIVE_GUIDE.md#17-advanced-therapies--cell-gene-and-mrna-cmc).
+| 来源           | 覆盖范围                                                                                             |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| **ICH 指南**   | Q1A–Q1E, Q2(R2), Q3A–Q3E, Q5A–Q5E, Q6A/Q6B, Q7, Q8(R2), Q9(R1), Q10, Q11, Q12, Q13, Q14, M4Q, M7(R2) |
+| **FDA 法规**   | 21 CFR 210/211, 312, 314, 601, 600-680, Part 4, Part 11, Part 212                                    |
+| **EMA/EU**     | GMP Annex 1 (2022), Variations Regulation, ATMP Regulation                                           |
+| **🇨🇳 NMPA/CDE** | 《药品管理法》《药品注册管理办法》《GMP》附录、CDE 药学指导原则系列                                  |
+| **🇨🇳 中国药典** | 2025 版四部通则（9001 稳定性、9101 分析方法验证、1101 无菌检查等）                                   |
 
 ---
 
-## Disclaimer
+## 使用指南
 
-This document is compiled from publicly available regulatory guidelines (ICH, FDA, EMA), pharmacopeial standards (USP, Ph. Eur.), and established pharmaceutical industry practices. It is intended as an educational and strategic reference. For specific regulatory submissions or compliance decisions, always consult the latest published guidance documents at [FDA.gov](https://www.fda.gov), [ICH.org](https://www.ich.org), and [EMA.europa.eu](https://www.ema.europa.eu).
+**药品注册/申报人员：**
+从 [§11 临床阶段触发](CMC_COMPREHENSIVE_GUIDE.md#11-clinical-trial-phases-as-cmc-triggers) + [§38 中国研发节点图](CMC_COMPREHENSIVE_GUIDE.md#38-中国药品研发阶段-cmc-节点图-china-drug-development-cmc-milestones) + [§41 发补案例](CMC_COMPREHENSIVE_GUIDE.md#41-中国-cmc-高频发补与合规案例-common-cmc-deficiency-cases-in-china)
+
+**CMC 研发科学家：**
+从 [§5 原料药](CMC_COMPREHENSIVE_GUIDE.md#5-drug-substance-api--deep-dive) + [§6 制剂](CMC_COMPREHENSIVE_GUIDE.md#6-drug-product--deep-dive) + [§7 分析](CMC_COMPREHENSIVE_GUIDE.md#7-analytical-methods--deep-dive)
+
+**质量/生产管理人员：**
+从 [§10 工艺验证](CMC_COMPREHENSIVE_GUIDE.md#10-process-validation) + [§40 MAH 管控](CMC_COMPREHENSIVE_GUIDE.md#40-mah-制度下的-cmc-管控-cmc-management-under-mah-system) + [§22 CDMO](CMC_COMPREHENSIVE_GUIDE.md#22-cmocdmo-management-and-quality-agreements)
+
+**生物药/前沿疗法：**
+从 [§15 生物药](CMC_COMPREHENSIVE_GUIDE.md#15-biologics-specific-cmc) + [§17 先进疗法](CMC_COMPREHENSIVE_GUIDE.md#17-advanced-therapies--cell-gene-and-mrna-cmc) + [§27 新兴靶向](CMC_COMPREHENSIVE_GUIDE.md#27-emerging-modalities--adcs-bispecifics-oligonucleotides)
+
+**多地区同步申报：**
+从 [§36 中美欧对比](CMC_COMPREHENSIVE_GUIDE.md#36-中美欧-cmc-申报要求对比-china-us-eu-cmc-comparison) + [§20 FDA vs EMA](CMC_COMPREHENSIVE_GUIDE.md#20-fda-vs-ema--cmc-comparison) + [§39 DMF 关联审评](CMC_COMPREHENSIVE_GUIDE.md#39-中国-dmf-与关联审评-china-dmf-and-associated-review)
 
 ---
 
-*Compiled March 2026*
+## 配套资源
+
+| 文件                                                                     | 说明                                       |
+| ------------------------------------------------------------------------ | ------------------------------------------ |
+| [`COMPLIANCE_FRAMEWORK.md`](COMPLIANCE_FRAMEWORK.md)                     | 合规保障制度（数据源、更新 SOP、三重校验） |
+| [`resources/zh-CN/SOURCES.md`](resources/zh-CN/SOURCES.md)               | NMPA/CDE/药典委权威链接清单                |
+| [`resources/zh-CN/UPDATE_TRACKER.md`](resources/zh-CN/UPDATE_TRACKER.md) | 法规更新台账                               |
+| [`resources/zh-CN/build_zh_pdf.ps1`](resources/zh-CN/build_zh_pdf.ps1)   | 中文 PDF 一键编译脚本                      |
+
+---
+
+## 免责声明
+
+本指南内容整合自公开发布的 ICH、FDA、EMA 法规指南，NMPA/CDE 指导原则，中国药典标准，以及医药行业通行实践。仅供教育、培训和战略参考使用。具体药品注册申报或合规决策，请以相关监管机构最新发布的官方文件为准。
+
+- **NMPA**：https://www.nmpa.gov.cn
+- **CDE**：https://www.cde.org.cn
+- **ICH**：https://www.ich.org
+- **FDA**：https://www.fda.gov
+
+---
+
+*版本 V1.0 · 2025 年 4 月*
