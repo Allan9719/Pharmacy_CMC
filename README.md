@@ -13,7 +13,7 @@
 - 🔬 **全品类覆盖**：化学药、生物药、生物类似药、细胞/基因治疗、mRNA、ADC、寡核苷酸
 - 📈 **实操导向**：中国药品研发 CMC 节点图、高频发补案例、MAH 管控实务
 
-**核心文档**：[`CMC_COMPREHENSIVE_GUIDE.md`](CMC_COMPREHENSIVE_GUIDE.md) — 2,300+ 行 | 41 章节 | 80+ 中英双语术语
+**核心文档**：[`CMC_COMPREHENSIVE_GUIDE.md`](CMC_COMPREHENSIVE_GUIDE.md) — 2,300+ 行 | 42 章节 | 80+ 中英双语术语
 
 ---
 
@@ -83,6 +83,7 @@
 | 39  | [DMF 与关联审评](CMC_COMPREHENSIVE_GUIDE.md#39-中国-dmf-与关联审评-china-dmf-and-associated-review)                        | 分类/流程/补正要点                                          |
 | 40  | [MAH 制度下 CMC 管控](CMC_COMPREHENSIVE_GUIDE.md#40-mah-制度下的-cmc-管控-cmc-management-under-mah-system)                 | 质量协议/跨区域合规/中欧美差异                              |
 | 41  | [高频发补与合规案例](CMC_COMPREHENSIVE_GUIDE.md#41-中国-cmc-高频发补与合规案例-common-cmc-deficiency-cases-in-china)       | 7 大发补类型 + 亚硝胺管控 + 溶出曲线案例 + 最佳实践         |
+| 42  | [2024-2026 法规更新速览](CMC_COMPREHENSIVE_GUIDE.md#42-2024-2026-中国-cmc-法规重大更新速览-major-china-cmc-regulatory-updates-2024-2026) | 药品管理法实施条例修订 + 7 项 CDE 新指导原则 + 药典 2025 变化 + ICH 实施进展 |
 
 ---
 
@@ -93,8 +94,8 @@
 | **ICH 指南**   | Q1A–Q1E, Q2(R2), Q3A–Q3E, Q5A–Q5E, Q6A/Q6B, Q7, Q8(R2), Q9(R1), Q10, Q11, Q12, Q13, Q14, M4Q, M7(R2) |
 | **FDA 法规**   | 21 CFR 210/211, 312, 314, 601, 600-680, Part 4, Part 11, Part 212                                    |
 | **EMA/EU**     | GMP Annex 1 (2022), Variations Regulation, ATMP Regulation                                           |
-| **🇨🇳 NMPA/CDE** | 《药品管理法》《药品注册管理办法》《GMP》附录、CDE 药学指导原则系列                                  |
-| **🇨🇳 中国药典** | 2025 版四部通则（9001 稳定性、9101 分析方法验证、1101 无菌检查等）                                   |
+| **🇨🇳 NMPA/CDE** | 《药品管理法》《药品管理法实施条例》（2026修订）《药品注册管理办法》《GMP》附录、CDE 药学指导原则系列 |
+| **🇨🇳 中国药典** | 2025 版四部通则（新增 56 个通则、修订 102 个，含 9101 分析方法验证、9097 数据统计评估等）       |
 
 ---
 
@@ -139,4 +140,4 @@
 
 ---
 
-*版本 V1.0 · 2025 年 4 月*
+*版本 V1.0 · 2026 年 4 月*
