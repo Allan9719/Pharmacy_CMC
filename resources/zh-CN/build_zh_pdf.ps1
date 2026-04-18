@@ -1,5 +1,4 @@
-# CMC 中文 PDF 编译脚本
-# 使用 Pandoc + XeLaTeX 将 Markdown 转为支持中文的 PDF
+# CMC 中文 PDF 编译脚本 (Safe Encoding Version)
 # 前置要求：安装 Pandoc + TeX Live/MiKTeX（含 ctex 宏包）
 
 param(
@@ -12,64 +11,63 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-# 检查 Pandoc 是否安装
+# Dependency Check
 try {
-    $pandocVersion = pandoc --version | Select-Object -First 1
-    Write-Host "[OK] Pandoc 已安装: $pandocVersion" -ForegroundColor Green
-} catch {
-    Write-Host "[ERROR] 未检测到 Pandoc，请先安装: https://pandoc.org/installing.html" -ForegroundColor Red
+    $pandocStatus = Get-Command pandoc -ErrorAction SilentlyContinue
+    if (-not $pandocStatus) { throw "Pandoc not found" }
+    Write-Host "[OK] Pandoc is installed." -ForegroundColor Green
+}
+catch {
+    Write-Host "[ERROR] Please install Pandoc: https://pandoc.org/installing.html" -ForegroundColor Red
     exit 1
 }
 
-# 检查 XeLaTeX 是否可用
 try {
-    $xelatexVersion = xelatex --version | Select-Object -First 1
-    Write-Host "[OK] XeLaTeX 已安装: $xelatexVersion" -ForegroundColor Green
-} catch {
-    Write-Host "[ERROR] 未检测到 XeLaTeX，请安装 TeX Live 或 MiKTeX" -ForegroundColor Red
+    $xelatexStatus = Get-Command xelatex -ErrorAction SilentlyContinue
+    if (-not $xelatexStatus) { throw "XeLaTeX not found" }
+    Write-Host "[OK] XeLaTeX is installed." -ForegroundColor Green
+}
+catch {
+    Write-Host "[ERROR] Please install TeX Live or MiKTeX." -ForegroundColor Red
     exit 1
 }
 
-# 检查输入文件
 if (-not (Test-Path $InputFile)) {
-    Write-Host "[ERROR] 未找到输入文件: $InputFile" -ForegroundColor Red
+    Write-Host "[ERROR] Input file not found: $InputFile" -ForegroundColor Red
     exit 1
 }
 
-Write-Host ""
-Write-Host "========================================" -ForegroundColor Cyan
-Write-Host "  CMC 指南中文 PDF 编译" -ForegroundColor Cyan
-Write-Host "========================================" -ForegroundColor Cyan
-Write-Host "输入文件: $InputFile"
-Write-Host "输出文件: $OutputFile"
-Write-Host "正文字体: $MainFont"
-Write-Host "标题字体: $SansFont"
-Write-Host ""
+Write-Host "----------------------------------------"
+Write-Host "  CMC Guide PDF Build (China Edition)"
+Write-Host "----------------------------------------"
+Write-Host "Input: $InputFile"
+Write-Host "Output: $OutputFile"
+Write-Host "Wait..." -ForegroundColor Yellow
 
-# 执行 Pandoc 编译
-Write-Host "[...] 正在编译，请稍候（首次编译可能需要数分钟）..." -ForegroundColor Yellow
+# Execute Pandoc
+try {
+    pandoc $InputFile `
+        -o $OutputFile `
+        --pdf-engine=xelatex `
+        -V mainfont="$MainFont" `
+        -V sansfont="$SansFont" `
+        -V monofont="$MonoFont" `
+        -V geometry:margin=2.5cm `
+        -V fontsize=11pt `
+        -V documentclass=article `
+        -V CJKmainfont="$MainFont" `
+        --toc `
+        --toc-depth=3 `
+        -N
 
-pandoc $InputFile `
-    -o $OutputFile `
-    --pdf-engine=xelatex `
-    -V mainfont="$MainFont" `
-    -V sansfont="$SansFont" `
-    -V monofont="$MonoFont" `
-    -V geometry:margin=2.5cm `
-    -V fontsize=11pt `
-    -V documentclass=article `
-    -V CJKmainfont="$MainFont" `
-    --toc `
-    --toc-depth=3 `
-    -N
-
-if ($LASTEXITCODE -eq 0) {
-    $fileSize = (Get-Item $OutputFile).Length / 1KB
-    Write-Host ""
-    Write-Host "[OK] 编译成功！" -ForegroundColor Green
-    Write-Host "输出文件: $OutputFile ($([math]::Round($fileSize, 1)) KB)" -ForegroundColor Green
-} else {
-    Write-Host ""
-    Write-Host "[ERROR] 编译失败，请检查错误信息" -ForegroundColor Red
+    if (Test-Path $OutputFile) {
+        Write-Host "[OK] Build Success!" -ForegroundColor Green
+        $size = (Get-Item $OutputFile).Length / 1KB
+        Write-Host "File saved to: $OutputFile ($([math]::Round($size, 1)) KB)"
+    }
+}
+catch {
+    Write-Host "[ERROR] Build failed. Please check your TeX installation and fonts." -ForegroundColor Red
+    Write-Error $_
     exit 1
 }

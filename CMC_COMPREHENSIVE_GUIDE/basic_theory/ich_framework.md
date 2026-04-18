@@ -115,10 +115,14 @@ The R2 revision added Analytical Target Profile (ATP), enhanced statistical trea
 
 **Q3B(R2) — Drug Product Degradation Thresholds:**
 
-| Max Daily Dose | Reporting | Identification                      | Qualification                        |
-| -------------- | --------- | ----------------------------------- | ------------------------------------ |
-| ≤1 g/day       | ≥0.1%     | 0.2% (low dose) to 0.1% (high dose) | 1.0% (low dose) to 0.15% (high dose) |
-| >1 g/day       | ≥0.05%    | ≥0.05%                              | ≥0.05%                               |
+| Max Daily Dose     | Reporting | Identification              | Qualification               |
+| ------------------ | --------- | --------------------------- | --------------------------- |
+| <1 mg/day          | ≥0.1%     | 1.0% or 50 ug/day (lower)  | 1.0% or 50 ug/day (lower)  |
+| 1 mg – 10 mg/day   | ≥0.1%     | 0.5% or 200 ug/day (lower) | 0.5% or 200 ug/day (lower) |
+| >10 mg – 2 g/day   | ≥0.1%     | 0.2% or 2 mg/day (lower)   | 0.2% or 3 mg/day (lower)   |
+| >2 g/day           | ≥0.05%    | 0.10%                       | 0.15%                       |
+
+> 注：Identification 和 Qualification 取百分比与质量阈值中的较低值（whichever is lower）。
 
 **Q3C(R8) — Residual Solvents:**
 - **Class 1** (avoid): Benzene (2 ppm), carbon tetrachloride (4 ppm), 1,2-dichloroethane (5 ppm)

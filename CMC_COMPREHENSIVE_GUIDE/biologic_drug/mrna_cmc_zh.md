@@ -52,7 +52,7 @@ DNA 模板质控要求：
 | 3' Poly(A) 尾长度 | LC-MS / PCR | 符合规定范围 | CDE 指导原则 |
 | 纯度 | RP-HPLC / IP-RP-HPLC | ≥90% | 药典 9101 |
 | dsRNA 残留 | ELISA / 免疫印迹 | ≤ 规定限度 | 安全性要求 |
-| 残留 DNA 模板 | qPCR | ≤10 ng/剂量 | WHO/CDE |
+| 残留 DNA 模板 | qPCR | ≤10 ng/剂量（口服）；注射用建议更严 | WHO/CDE |
 | 残留宿主蛋白 | BCA / ELISA | ≤ 规定限度 | CDE 指导原则 |
 | 残留酶（T7 RNA 聚合酶等） | ELISA | ≤ 规定限度 | 工艺相关杂质 |
 | 残留有机溶剂 | GC / HPLC | 符合 ICH Q3C | ICH Q3C |

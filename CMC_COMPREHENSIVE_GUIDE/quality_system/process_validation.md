@@ -120,7 +120,7 @@ Resolution: 30 days for FDA to respond after sponsor addresses all deficiencies.
 | Type IA   | Minor, "do and tell"          | Implement immediately, notify within 12 months  |
 | Type IAIN | Minor, immediate notification | Implement and notify immediately                |
 | Type IB   | Minor, "tell, wait, and do"   | Notify; implement after 30 days if no objection |
-| Type II   | Major                         | Requires prior approval (60-day review)         |
+| Type II   | Major                         | Requires prior approval (standard 60-day review, may extend to ~90 days with clock-stop) |
 | Extension | Fundamental change            | New application-level review                    |
 
 ---

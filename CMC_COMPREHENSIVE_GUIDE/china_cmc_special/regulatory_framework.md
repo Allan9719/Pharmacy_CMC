@@ -74,7 +74,7 @@
 | 关联审评  | 原料药/辅料/包材随制剂一并审评（2017 年起全面推行）         | FDA 通过 DMF 引用；EMA 通过 ASMF/CEP             |
 | 批签发    | 疫苗、血液制品等生物制品实行**强制批签发制度**              | FDA 无强制批签发（CBER 负责生物制品监管）        |
 | 药典体系  | 《中国药典》分四部，含中药专部                              | USP-NF / Ph. Eur.（无中药专部）                  |
-| eCTD 申报 | 2023 年全面推行 eCTD 电子申报                               | FDA/EMA 已全面实行 eCTD                          |
+| eCTD 申报 | 2023 年全面电子化提交；2026.03.01 起可按 eCTD 方式申报（首年享受优先受理） | FDA/EMA 已全面实行 eCTD                          |
 | 变更管理  | 备案类变更 + 审批类变更（2021 年《变更管理办法》）          | FDA: SUPAC/CBE/PAS；EMA: Variation Type IA/IB/II |
 
 *** 
@@ -85,7 +85,7 @@
 
 | 维度         | 美国 (FDA)                 | 欧盟 (EMA)                             | 中国 (NMPA)                             |
 | ------------ | -------------------------- | -------------------------------------- | --------------------------------------- |
-| **申报格式** | CTD / eCTD                 | CTD / eCTD                             | eCTD（2023 年全面推行）                 |
+| **申报格式** | CTD / eCTD                 | CTD / eCTD                             | eCTD（2026.03 起可按 eCTD 方式申报）     |
 | **API 文件** | DMF（引用制）              | ASMF（拆分：公开部分 + 保密部分）/ CEP | DMF 备案 + 关联审评（随制剂审评）       |
 | **审评机构** | CDER / CBER                | CHMP + Rapporteur                      | CDE 药学审评部                          |
 | **审评周期** | 标准 12 个月 / 优先 8 个月 | 210 天（集中审评程序）                 | 标准 200 工作日 / 优先 130 工作日       |
@@ -141,7 +141,7 @@
 | Active Pharmaceutical Ingredient (API)         | 原料药 / 活性药物成分 |                                                   |
 | Drug Product (DP)                              | 制剂 / 药品成品       |                                                   |
 | Drug Substance (DS)                            | 原料药 / 药物活性物质 |                                                   |
-| Investigational New Drug (IND)                 | 新药临床试验申请      | 中国 IND 默示许可制（60 日）                      |
+| Investigational New Drug (IND)                 | 新药临床试验申请      | 中国 IND 默示许可制（60 个工作日）                      |
 | New Drug Application (NDA)                     | 新药上市申请          |                                                   |
 | Biologics License Application (BLA)            | 生物制品注册申请      |                                                   |
 | Abbreviated New Drug Application (ANDA)        | 仿制药注册申请        |                                                   |
@@ -178,9 +178,9 @@
 
 ### 38.2 中国 IND 默示许可制度
 
-中国自 2017 年起实施 IND **60 日默示许可制度**：
+中国自 2017 年起实施 IND **60 个工作日默示许可制度**：
 - 受理后 60 个工作日内未收到 CDE 否定或需补正意见的，申请人可自行开展临床试验
-- 与 FDA 30 天 IND 安全性审查不同，CDE 60 天审查涵盖药学（CMC）+ 药理毒理 + 临床方案
+- FDA 为 30 日审查（涵盖 CMC + 药理毒理 + 临床方案），CDE 为 60 个工作日的全面审评
 
 ### 38.3 中国 NDA/BLA 发补（Supplemental Information Request）
 
@@ -197,7 +197,8 @@
 | 类型                       | 适用范围               | 备案要求                                |
 | -------------------------- | ---------------------- | --------------------------------------- |
 | **I 类（原料药 DMF）**     | 化学原料药、生物原料药 | 向 CDE 备案，提交完整药学研究资料       |
-| **II 类（辅料/包材 DMF）** | 药用辅料、药包材       | 向 CDE 备案，提交质量标准及生产工艺资料 |
+| **II-A 类（辅料 DMF）** | 药用辅料       | 向 CDE 备案，提交质量标准及生产工艺资料 |
+| **II-B 类（包材 DMF）** | 药包材         | 向 CDE 备案，提交质量标准及生产工艺资料 |
 
 ### 39.2 关联审评制度
 
@@ -349,9 +350,9 @@ CDE 在审评制剂时同步审评 DMF
 - **CDE 官网**：https://www.cde.org.cn
 - **中国药典委**：https://www.chp.org.cn
 - **中检院 NIFDC**：https://www.nifdc.org.cn
-- **法规更新台账**：[resources/zh-CN/UPDATE_TRACKER.md](resources/zh-CN/UPDATE_TRACKER.md)
-- **权威数据源清单**：[resources/zh-CN/SOURCES.md](resources/zh-CN/SOURCES.md)
-- **合规保障制度**：[COMPLIANCE_FRAMEWORK.md](COMPLIANCE_FRAMEWORK.md)
+- **法规更新台账**：[../../resources/zh-CN/UPDATE_TRACKER.md](../../resources/zh-CN/UPDATE_TRACKER.md)
+- **权威数据源清单**：[../../resources/zh-CN/SOURCES.md](../../resources/zh-CN/SOURCES.md)
+- **合规保障制度**：[../../COMPLIANCE_FRAMEWORK.md](../../COMPLIANCE_FRAMEWORK.md)
 
 ---
 

@@ -128,7 +128,7 @@ In 2018, NDMA (N-nitrosodimethylamine) contamination was discovered in valsartan
 | NDIPA       | 26.5        |
 | NDBA        | 26.5        |
 
-For NDSRIs (Nitrosamine Drug Substance Related Impurities), AI is determined from compound-specific carcinogenicity data or read-across.
+For NDSRIs (Nitrosamine Drug Substance Related Impurities), AI should be determined using the **CPCA (Carcinogenic Potency Categorization Approach)** introduced by FDA in 2024 (Guidance Rev.2). The CPCA method categorizes NDSRIs based on structural features into potency categories with predefined AI limits, rather than requiring compound-specific data for each impurity.
 
 ### 26.5 Analytical Methods
 
@@ -412,7 +412,7 @@ ANDAs (Abbreviated New Drug Applications) rely on bioequivalence to the Referenc
 | **Dissolution**        | Comparative dissolution profiles in multiple media; f₂ similarity factor ≥50 (or biowaiver per BCS)                                     |
 | **Bioequivalence**     | In vivo PK study demonstrating 90% CI of Cmax and AUC within 80-125% of RLD                                                             |
 | **BCS Biowaivers**     | ICH M9 / FDA guidance: BCS Class I drugs may qualify for biowaiver based on in vitro dissolution data                                   |
-| **Stability**          | At least 3 batches, 3 months accelerated + 6 months long-term at time of filing; shelf life based on available data                     |
+| **Stability**          | At least 3 batches, 6 months accelerated + 6 months long-term at time of filing; shelf life based on available data                     |
 | **Process validation** | Required at time of ANDA approval (on-site verification batch) or committed before commercial distribution                              |
 | **Specifications**     | Generally aligned with RLD product; compendial where available                                                                          |
 

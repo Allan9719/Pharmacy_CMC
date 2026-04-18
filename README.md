@@ -15,6 +15,11 @@
 
 **核心文档**：[`CMC_COMPREHENSIVE_GUIDE.md`](CMC_COMPREHENSIVE_GUIDE.md) — 2,300+ 行 | 42 章节 | 80+ 中英双语术语
 
+> 当前仓库处于“结构已完成、资源持续补齐”的阶段：
+> - 核心指南与专题章节可直接阅读
+> - `resources/zh-CN/` 下的案例、模板、法规整理区已完成目录设计，但部分内容仍为占位或待补充
+> - 使用时建议优先从 [`SUMMARY.md`](SUMMARY.md) 和 [`resources/zh-CN/README.md`](resources/zh-CN/README.md) 进入
+
 ---
 
 ## 项目结构
@@ -100,23 +105,24 @@ CMC_Research/
 | **FDA 法规**   | 21 CFR 210/211, 312, 314, 601, 600-680, Part 4, Part 11, Part 212                                    |
 | **EMA/EU**     | GMP Annex 1 (2022), Variations Regulation, ATMP Regulation                                           |
 | **NMPA/CDE** | 《药品管理法》《药品管理法实施条例》（2026修订）《药品注册管理办法》《GMP》附录、CDE 药学指导原则系列 |
-| **中国药典** | 2025 版四部通则（新增 56 个通则、修订 102 个，含 9101 分析方法验证、9097 数据统计评估等）       |
+| **中国药典** | 2025 版（通用技术要求新增 69 个、修订 133 个；其中四部通则新增 56 个、修订 102 个，含 9101、9097 等） |
 
 ---
 
-## 配套资源
+## 配套资源与当前状态
 
-| 文件                                                                     | 说明                                       |
-| ------------------------------------------------------------------------ | ------------------------------------------ |
-| [`SUMMARY.md`](SUMMARY.md)                                               | 三级导航目录（按板块/章节/场景）           |
-| [`TAG_INDEX.md`](TAG_INDEX.md)                                           | 多维度标签索引（品类/场景/法规/难度）      |
-| [`FAQ.md`](FAQ.md)                                                       | 10 个 CMC 高频问题与解答                   |
-| [`REGULATORY_UPDATE_LOG.md`](REGULATORY_UPDATE_LOG.md)                   | 2024-2026 法规更新日志                     |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md)                                     | 贡献协作规则                               |
-| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)                               | 社区行为准则                               |
-| [`COMPLIANCE_FRAMEWORK.md`](COMPLIANCE_FRAMEWORK.md)                     | 合规保障制度（数据源、更新 SOP、三重校验） |
-| [`resources/zh-CN/SOURCES.md`](resources/zh-CN/SOURCES.md)               | NMPA/CDE/药典委权威链接清单                |
-| [`resources/zh-CN/UPDATE_TRACKER.md`](resources/zh-CN/UPDATE_TRACKER.md) | 法规更新台账                               |
+| 文件 | 说明 | 状态 |
+| ---- | ---- | ---- |
+| [`SUMMARY.md`](SUMMARY.md) | 三级导航目录（按板块/章节/场景） | 可用 |
+| [`TAG_INDEX.md`](TAG_INDEX.md) | 多维度标签索引（品类/场景/法规/难度） | 可用 |
+| [`FAQ.md`](FAQ.md) | 高频问题与入口级答疑 | 可用 |
+| [`REGULATORY_UPDATE_LOG.md`](REGULATORY_UPDATE_LOG.md) | 2024-2026 法规更新日志 | 可用，个别条目持续核对 |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | 贡献协作规则 | 可用 |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | 社区行为准则 | 可用 |
+| [`COMPLIANCE_FRAMEWORK.md`](COMPLIANCE_FRAMEWORK.md) | 合规保障制度（数据源、更新 SOP、三重校验） | 可用 |
+| [`resources/zh-CN/README.md`](resources/zh-CN/README.md) | 中文资源总索引与成熟度说明 | 新增 |
+| [`resources/zh-CN/SOURCES.md`](resources/zh-CN/SOURCES.md) | NMPA/CDE/药典委权威链接清单 | 可用 |
+| [`resources/zh-CN/UPDATE_TRACKER.md`](resources/zh-CN/UPDATE_TRACKER.md) | 法规更新台账 | 可用 |
 
 ---
 
@@ -131,4 +137,4 @@ CMC_Research/
 
 ---
 
-*版本 V2.0 · 2026 年 4 月*
+*版本 V2.1 · 2026 年 4 月*

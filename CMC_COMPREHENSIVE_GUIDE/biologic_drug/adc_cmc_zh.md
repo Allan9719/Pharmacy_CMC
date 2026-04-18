@@ -130,7 +130,7 @@ DAR（Drug-to-Antibody Ratio）控制：
 |---------|------|---------|
 | 鉴别 | 肽图 + 质谱 | 与参比品一致 |
 | DAR（平均） | HIC-HPLC / UV/UV | 目标值 ± 0.5 |
-| DAR 分布 | HIC-HPLC | D0-D8 各组分比例符合规定 |
+| DAR 分布 | HIC-HPLC | D0-D8 各组分比例符合规定（适用于 IgG1 链间二硫键偶联；其他偶联策略范围不同） |
 | 纯度（SEC） | SEC-HPLC | 单体 ≥95% |
 | 纯度（CE-SDS） | 还原/非还原 CE-SDS | 符合规定 |
 | 游离毒素 | RP-HPLC | ≤3% |

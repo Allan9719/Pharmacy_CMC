@@ -41,7 +41,7 @@ Starting materials define the regulatory GMP boundary:
 | Particle size        | D90 < specified    | Laser diffraction   |
 | Polymorphic form     | Confirmed Form I   | XRPD, DSC           |
 | Elemental impurities | Per ICH Q3D        | ICP-MS              |
-| Residual catalysts   | Pd < 10 ppm (oral) | ICP-MS              |
+| Residual catalysts   | Pd per ICH Q3D: oral PDE = 10 ug/day (limit depends on daily dose) | ICP-MS              |
 | Chiral purity        | >99.5% ee          | Chiral HPLC/SFC     |
 | Microbial limits     | Per USP <61>/<62>  | Membrane filtration |
 
