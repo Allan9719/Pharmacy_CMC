@@ -21,17 +21,18 @@
 | IND 申报 | [临床阶段 CMC 触发](CMC_COMPREHENSIVE_GUIDE/biologic_drug/biologic_basic.md)、[Pre-IND 沟通会模板](resources/zh-CN/templates/compliance/) |
 | NDA 申报 | [CTD 模块 3](CMC_COMPREHENSIVE_GUIDE/basic_theory/ich_framework.md)、[NDA CMC 自查清单](resources/zh-CN/templates/declaration/) |
 | 工艺验证 | [工艺验证](CMC_COMPREHENSIVE_GUIDE/quality_system/process_validation.md)、[工艺验证记录表](resources/zh-CN/templates/practice/) |
-| MAH 管控 | [MAH 制度下的 CMC 管控](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/regulatory_framework.md)、[MAH 质量协议模板](resources/zh-CN/templates/declaration/) |
+| MAH 管控 | [MAH 制度下的 CMC 管控](CMC_COMPREHENSIVE_GUIDE/quality_system/mah_management.md)、[MAH 质量协议模板](resources/zh-CN/templates/declaration/) |
 | 发补整改 | [ADC 发补整改](CMC_COMPREHENSIVE_GUIDE/biologic_drug/adc_cmc_zh.md)、[化学药发补案例](resources/zh-CN/cases/chemical_drug/) |
-| 上市后变更 | [Post-Approval Changes](CMC_COMPREHENSIVE_GUIDE/quality_system/process_validation.md) |
-| CDMO 管理 | [CDMO 管理与质量协议](CMC_COMPREHENSIVE_GUIDE/quality_system/process_validation.md) |
+| 上市后变更 | [上市后变更申报](CMC_COMPREHENSIVE_GUIDE/declaration_practice/variation_report.md) |
+| CDMO 管理 | [CDMO 管理与质量协议](CMC_COMPREHENSIVE_GUIDE/quality_system/process_validation.md)、[MAH 管控](CMC_COMPREHENSIVE_GUIDE/quality_system/mah_management.md) |
+| 飞检/审计 | [飞检风险规避](CMC_COMPREHENSIVE_GUIDE/quality_system/audit_risk.md) |
 
 ## 三、按法规标签
 
 | 标签 | 对应内容 |
 |------|----------|
 | ICH Q 系列 | [ICH 框架](CMC_COMPREHENSIVE_GUIDE/basic_theory/ich_framework.md)、[ICH 规则翻译](resources/zh-CN/regulations/) |
-| 中国药典 2025 版 | [药典 2025 更新](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/regulatory_framework.md) |
+| 中国药典 2025 版 | [药典 2025 CMC 影响解读](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/pharmacopoeia_2025.md) |
 | NMPA 2026 条例 | [本土监管框架](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/regulatory_framework.md)、[法规更新日志](REGULATORY_UPDATE_LOG.md) |
 | CDE 指导原则 | [CDE 最新指导原则汇总](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/regulatory_framework.md) |
 

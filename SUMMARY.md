@@ -14,12 +14,16 @@
 
 ## 四、质量体系与合规（全球）
 - [新兴趋势 / CDMO / 供应链](CMC_COMPREHENSIVE_GUIDE/quality_system/process_validation.md) — §18-23：连续制造、FDA vs EMA、技术转移、CDMO
+- [MAH 制度下的 CMC 管控](CMC_COMPREHENSIVE_GUIDE/quality_system/mah_management.md) — 责任划分、质量协议、委托生产监督、跨区域管控
+- [飞检/审计风险规避](CMC_COMPREHENSIVE_GUIDE/quality_system/audit_risk.md) — 飞检高频缺陷、数据完整性、应对策略、自评工具
 
 ## 五、跨品类对比（全球）
 - [生物类似药 / DMF / 数据完整性 / 仿制药](CMC_COMPREHENSIVE_GUIDE/cross_category/cmc_difference.md) — §24-34：生物类似药、亚硝胺、ADC/双抗/寡核苷酸、DMF、术语表
 
 ## 六、中国 CMC 特色板块
 - [中国 CMC 监管框架与法规更新](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/regulatory_framework.md) — §35-42：NMPA/CDE 框架、中美欧对比、术语、节点图、DMF、MAH、发补案例、2024-2026 更新
+- [中国药典 2025 版 CMC 影响解读](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/pharmacopoeia_2025.md) — 通则 9101/9097/4025 修订要点与实操应对
+- [CDE 审评关注点变迁（2023-2025）](CMC_COMPREHENSIVE_GUIDE/china_cmc_special/cde_review_trend.md) — 审评数据、发补趋势、加速通道策略
 
 ## 七、资源与工具
 - [本土案例库](resources/zh-CN/cases/) — 化学药 / 生物药 / 前沿疗法发补与整改案例
