@@ -1,3 +1,5 @@
+> 📖 基于 ICH Q 系列、CDE 指导原则及行业实践整理。
+
 ## 5. Drug Substance (API) — Deep Dive
 
 ### 5.1 Synthetic Route Development

@@ -1,3 +1,5 @@
+> 📖 基于 ICH Q5/Q6 系列及行业实践整理，生物类似药对比数据请以实际产品研究为准。
+
 ## 10. Process Validation
 
 ### 10.1 FDA 2011 Lifecycle Approach — Three Stages

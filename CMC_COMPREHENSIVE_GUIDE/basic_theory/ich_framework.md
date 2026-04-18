@@ -1,3 +1,5 @@
+> 📖 基于 ICH 官方指导原则整理，核心参数已交叉核对。
+
 ## 1. What is CMC and Why It Matters
 
 **CMC = Chemistry, Manufacturing, and Controls.** It encompasses all technical information about a drug's composition, how it is made, and how its quality is assured. CMC is the quality backbone of every regulatory submission — without robust CMC data, no drug can receive regulatory approval regardless of how strong the clinical efficacy data may be.

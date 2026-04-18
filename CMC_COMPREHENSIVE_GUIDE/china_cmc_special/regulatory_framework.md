@@ -1,5 +1,7 @@
 ## 35. 中国 CMC 监管框架 (China CMC Regulatory Framework)
 
+> 📖 基于 NMPA/CDE 官方文件整理，法规更新请以官方最新公告为准。
+
 ### 35.1 监管机构与职责划分
 
 | 机构                               | 英文名称                                      | CMC 核心职责                                                        |

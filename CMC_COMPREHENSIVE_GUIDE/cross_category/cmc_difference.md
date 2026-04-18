@@ -1,3 +1,5 @@
+> 📖 基于 FDA/EMA/NMPA 官方文件整理，具体参数以各监管机构最新指南为准。
+
 ## 24. Biosimilar CMC Pathway
 
 ### 24.1 Biosimilar Development is Fundamentally a CMC Exercise

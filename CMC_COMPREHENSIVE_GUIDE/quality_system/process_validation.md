@@ -1,3 +1,5 @@
+> 📖 基于 ICH Q13、FDA/EMA 指南及行业实践整理。
+
 ## 18. Emerging Trends in CMC
 
 ### 18.1 Continuous Manufacturing (ICH Q13)
