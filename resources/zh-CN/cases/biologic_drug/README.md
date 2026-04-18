@@ -17,4 +17,6 @@
 
 ## 案例列表
 
-_等待社区贡献..._
+| 案例 | 类型 | 文件 |
+|------|------|------|
+| 单抗生物类似药质量相似性评价不充分 | 质量相似性 | [biosimilar_similarity_case.md](biosimilar_similarity_case.md) |

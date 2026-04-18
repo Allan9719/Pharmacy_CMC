@@ -17,4 +17,6 @@
 
 ## 案例列表
 
-_等待社区贡献..._
+| 案例 | 类型 | 文件 |
+|------|------|------|
+| ADC 药物 DAR 控制与杂质研究不充分 | DAR/杂质 | [adc_dar_control_case.md](adc_dar_control_case.md) |

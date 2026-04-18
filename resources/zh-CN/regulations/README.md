@@ -22,4 +22,9 @@
 - 《预防用 mRNA 疫苗药学研究技术指导原则（试行）》
 - 《化学合成寡核苷酸药物药学研究技术指导原则（试行）》
 
+## 当前状态
+
+- 已收录法规链接索引页 [regulation_links.md](regulation_links.md)
+- 正式使用时，建议与 [SOURCES.md](../SOURCES.md) 和 [法规更新日志](../../../REGULATORY_UPDATE_LOG.md) 交叉查看
+
 _详见 [法规更新日志](../../../REGULATORY_UPDATE_LOG.md)_
