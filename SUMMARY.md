@@ -15,6 +15,7 @@
 - [中国 ATMP CMC 申报实操指南](CMC_COMPREHENSIVE_GUIDE/biologic_drug/atmp_cmc_zh.md) — 中国本土 ATMP 申报全流程
 - [mRNA 药物本土质控要点](CMC_COMPREHENSIVE_GUIDE/biologic_drug/mrna_cmc_zh.md) — 药典 2025 版 LNP/mRNA 质控
 - [ADC 药物 CDE 发补高频问题与整改](CMC_COMPREHENSIVE_GUIDE/biologic_drug/adc_cmc_zh.md) — CDE 2024 指南解读+发补案例
+- [化学合成寡核苷酸药物 CMC 申报要点](CMC_COMPREHENSIVE_GUIDE/biologic_drug/oligonucleotide_cmc_zh.md) — CDE 2026 指南解读+ASO/siRNA 质控
 
 ## 四、质量体系与合规（全球）
 - [新兴趋势 / CDMO / 供应链](CMC_COMPREHENSIVE_GUIDE/quality_system/process_validation.md) — §18-23：连续制造、FDA vs EMA、技术转移、CDMO

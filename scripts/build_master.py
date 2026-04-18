@@ -32,7 +32,7 @@ SECTIONS = [
     {
         "title": "生物药 CMC",
         "dir": "biologic_drug",
-        "files": ["biologic_basic.md", "atmp_cmc_zh.md", "mrna_cmc_zh.md", "adc_cmc_zh.md"],
+        "files": ["biologic_basic.md", "atmp_cmc_zh.md", "mrna_cmc_zh.md", "adc_cmc_zh.md", "oligonucleotide_cmc_zh.md"],
     },
     {
         "title": "中国 CMC 专项",
